@@ -1,0 +1,4 @@
+/home/girish/Desktop/bak4-detector-half/sim/build/CMakeFiles/rebuild_cache.dir
+/home/girish/Desktop/bak4-detector-half/sim/build/CMakeFiles/Simulation.dir
+/home/girish/Desktop/bak4-detector-half/sim/build/CMakeFiles/edit_cache.dir
+/home/girish/Desktop/bak4-detector-half/sim/build/CMakeFiles/sim.dir
