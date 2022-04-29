@@ -1,0 +1,4 @@
+/home/girish/Desktop/Bak7-Cherenkov-FrankTamm /sim/build/CMakeFiles/rebuild_cache.dir
+/home/girish/Desktop/Bak7-Cherenkov-FrankTamm /sim/build/CMakeFiles/Simulation.dir
+/home/girish/Desktop/Bak7-Cherenkov-FrankTamm /sim/build/CMakeFiles/edit_cache.dir
+/home/girish/Desktop/Bak7-Cherenkov-FrankTamm /sim/build/CMakeFiles/sim.dir
