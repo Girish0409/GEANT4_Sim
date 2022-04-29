@@ -1,0 +1,4 @@
+/home/girish/Desktop/bak2/sim/build/CMakeFiles/rebuild_cache.dir
+/home/girish/Desktop/bak2/sim/build/CMakeFiles/Simulation.dir
+/home/girish/Desktop/bak2/sim/build/CMakeFiles/edit_cache.dir
+/home/girish/Desktop/bak2/sim/build/CMakeFiles/sim.dir
